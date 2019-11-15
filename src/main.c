@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
+//수정을 하자 6시 43분
 int len, col, num, seed, visi = 0, init = 0;
 // Length，Column，Mines, Seed, Visible Grid, Initialized or not
 unsigned char *m;
